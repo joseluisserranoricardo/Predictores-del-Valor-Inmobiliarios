@@ -20,6 +20,7 @@ Se generó una matriz para cuantificar la fuerza de la relación entre el precio
 
 ## 📉 2. Modelo de Regresión (Antigüedad vs. Precio)
 Para entender cómo la edad de una propiedad afecta su valor, se desarrolló un gráfico de dispersión comparando `YearBuilt` contra `SalePrice`.
+
 ![grafico dispersion](https://github.com/user-attachments/assets/2ebe9b08-05ba-4401-a69f-e8fdaf2eb23b)
 
 ### Detalles del Modelo:
@@ -43,6 +44,3 @@ El precio de una vivienda es un fenómeno multivariante. Mientras que el **año 
 
 ---
 
-### 📂 Archivos en este repositorio
-* `Analisis_Estadistico_Casas.xlsx`: Incluye la matriz, los datos limpios y los gráficos de regresión.
-* `README.md`: Documentación del proceso y conclusiones.
